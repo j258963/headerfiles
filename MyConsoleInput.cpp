@@ -2,14 +2,7 @@
  *	
  *	This is the implimentation file for a re-usable library of input 
  *	validation functions.
- *	   
- *	@author		Thom MacDonald
- *	@author		<your name>
- *	@version	2018.01
- *	@since		Jan 2018
- *	@see 		Bronson, G. (2012).  Chapter 6 Modularity Using Functions. 
- *					In A First Book of C++ (4th ed.). 
- *					Boston, MA: Course Technology.
+
 */
 
 #include <iostream>
