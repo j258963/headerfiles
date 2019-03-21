@@ -1,13 +1,5 @@
 /** MyCartesianPoint.h
  *	
- *	Definition of class CartesianPoint
- *   
- *	@author		<YOUR-NAME>
- *	@author		Thom MacDonald
- *	@version	2018.01
- *	@since		3 Feb 2018 <update to today's date>
- *	@see		Bronson, G. (2012).  Chapter 10 Introduction to Classes. 
- *				  In A First Book of C++ (4th ed.). Boston, MA: Course Technology.
 */
 
 #ifndef MY_CARTESIAN_POINT_H
